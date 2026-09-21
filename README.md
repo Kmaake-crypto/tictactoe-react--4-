@@ -22,7 +22,7 @@ The project was built as part of my journey in learning and applying **React dev
 *  Responsive and interactive interface
 *  Deployed using Vercel
 
-## Technologies Used
+##Technologies Used
 
 * **React** – Building the user interface and managing application state
 * **JavaScript** – Game logic and functionality

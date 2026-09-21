@@ -114,6 +114,5 @@ Possible improvements for future versions include:
 Aspiring Full-Stack Web Developer | UI/UX Designer | Graphic Designer
 
 GitHub: **Kmaake-crypto**
-
 ---
 If you found this project useful or interesting, feel free to explore the code and the live demo.

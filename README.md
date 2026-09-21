@@ -1,10 +1,10 @@
-# Tic-Tac-Toe React
+#Tic-Tac-Toe React
 
 A simple and interactive **Tic-Tac-Toe game built with React and Vite**. This project demonstrates the use of React components, state management, event handling, and conditional rendering to create a functional browser-based game.
 
 🔗 **Live Demo:** https://my-tictactoe-project-01.vercel.app/
 
-## About the Project
+##About the Project
 
 This project is a digital version of the classic Tic-Tac-Toe game where two players take turns placing **X** and **O** on a 3×3 grid.
 
@@ -12,7 +12,7 @@ The application automatically tracks the players' moves, determines when a playe
 
 The project was built as part of my journey in learning and applying **React development**.
 
-## Features
+##Features
 
 *  Two-player Tic-Tac-Toe gameplay
 *  X and  O player turns
@@ -32,7 +32,7 @@ The project was built as part of my journey in learning and applying **React dev
 * **Git & GitHub** – Version control
 * **Vercel** – Deployment
 
-## What I Practiced
+##What I Practiced
 
 Through this project, I practiced:
 
@@ -46,7 +46,7 @@ Through this project, I practiced:
 * Checking winning combinations
 * Building and deploying a React application
 
-## Getting Started
+##Getting Started
 
 To run the project locally, clone the repository:
 
@@ -74,7 +74,7 @@ npm run dev
 
 The application will then be available through the local development URL provided by Vite.
 
-## Production Build
+##Production Build
 
 To create a production build:
 
@@ -88,13 +88,13 @@ To preview the production build locally:
 npm run preview
 ```
 
-## Project Purpose
+##Project Purpose
 
 The purpose of this project was to strengthen my understanding of **React fundamentals** by building something interactive rather than only working through theoretical exercises.
 
 Building the game helped me understand how application state, user actions, and JavaScript logic work together to create an interactive user experience.
 
-## Future Improvements
+##Future Improvements
 
 Possible improvements for future versions include:
 
@@ -107,7 +107,7 @@ Possible improvements for future versions include:
 * Improve accessibility
 * Add a game history feature
 
-## Author
+##Author
 
 **Koketso Maake**
 

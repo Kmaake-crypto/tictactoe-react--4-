@@ -111,7 +111,7 @@ Possible improvements for future versions include:
 
 **Koketso Maake**
 
-Aspiring Full-Stack Web Developer | UI/UX Designer | Graphic Designer
+Aspiring | UI/UX Designer | Graphic Designer
 
 GitHub:Kmaake-crypto
 
